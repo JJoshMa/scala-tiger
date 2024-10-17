@@ -7,5 +7,5 @@ target
 
 *.class
 *.log
-
+out
 hs_err_pid*
